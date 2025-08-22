@@ -1,0 +1,16 @@
+categories:
+  - name: XUi
+    files:
+      - label: XUi.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/XUi/XUi.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/d4978da7504db0d2e98150af449e49b61204c945/XUi/XUi.cs
+  - name: Patches
+    files:
+      - label: EjemploPatch.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Patches/EjemploPatch.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/COMMIT_SHA/Patches/EjemploPatch.cs
+  - name: Utils
+    files:
+      - label: Logger.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Utils/Logger.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/COMMIT_SHA/Utils/Logger.cs
