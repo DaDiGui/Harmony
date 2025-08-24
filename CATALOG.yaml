@@ -61,3 +61,24 @@ categories:
       - label: TileEntity.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Entities/TileEntity.cs
         raw_branch: https://github.com/DaDiGui/Harmony/main/Entities/TileEntity.cs
+
+  - name: Inventory
+    files:
+      - label: Inventory.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/Inventory.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/Inventory.cs
+      - label: NetPackagePlayerInventory.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/NetPackagePlayerInventory.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/NetPackagePlayerInventory.cs
+      - label: NetPackagePlayerInventoryForAI.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/NetPackagePlayerInventoryForAI.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/NetPackagePlayerInventoryForAI.cs
+      - label: vp_Inventory.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/vp_Inventory.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/vp_Inventory.cs
+      - label: Inventory.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/Inventory.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/Inventory.cs
+      - label: Inventory.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/Inventory.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/Inventory.cs
