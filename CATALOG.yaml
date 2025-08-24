@@ -76,9 +76,9 @@ categories:
       - label: vp_Inventory.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/vp_Inventory.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/vp_Inventory.cs
-      - label: Inventory.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/Inventory.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/Inventory.cs
-      - label: Inventory.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/Inventory.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/Inventory.cs
+      - label: vp_PlayerInventory.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Inventory/vp_PlayerInventory.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/vp_PlayerInventory.cs
+      - label: vp_SimpleInventory.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Inventory/vp_SimpleInventory.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/vp_SimpleInventory.cs
