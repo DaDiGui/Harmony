@@ -52,3 +52,12 @@ categories:
       - label: ObjectiveCraft.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/ObjectiveCraft.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Crafting/ObjectiveCraft.cs
+
+  - name: Entities
+    files:
+      - label: Entity.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Entities/Entity.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/main/Entities/Entity.cs
+      - label: TileEntity.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Entities/TileEntity.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/main/Entities/TileEntity.cs
