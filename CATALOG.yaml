@@ -2,9 +2,9 @@ categories:
   - name: Blocks
     files:
       - label: Block.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/Block.cs
+        raw_commit:: https://raw.githubusercontent.com/DaDiGui/Harmony/2bda5e326f237a5f4d4c1b6674d2e1639aeee257/Blocks/Block.cs
       - label: BlockForge.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/BlockForge.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/2bda5e326f237a5f4d4c1b6674d2e1639aeee257/Blocks/BlockForge.cs
       - label: BlockValue.cs
         raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/BlockValue.cs
       - label: BlockForge.cs
