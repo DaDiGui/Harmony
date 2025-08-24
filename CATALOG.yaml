@@ -25,3 +25,13 @@ categories:
         raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/TileEntityWorkstation.cs
       - label: WorkstationData.cs
         raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/WorkstationData.cs
+  - name: Crafintg
+    files:
+      - label: CraftCompleteData.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Crafting/CraftCompleteData.cs
+      - label: CraftingData.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Crafting/CraftingData.cs
+      - label: CraftingManager.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Crafting/CraftingManager.cs
+      - label: ObjectiveCraft.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Crafting/ObjectiveCraft.cs
