@@ -2,36 +2,52 @@ categories:
   - name: Blocks
     files:
       - label: Block.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/Block.cs
         raw_commit:: https://raw.githubusercontent.com/DaDiGui/Harmony/2bda5e326f237a5f4d4c1b6674d2e1639aeee257/Blocks/Block.cs
       - label: BlockForge.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockForge.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/2bda5e326f237a5f4d4c1b6674d2e1639aeee257/Blocks/BlockForge.cs
       - label: BlockValue.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/BlockValue.cs
-      - label: BlockForge.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/BlockForge.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockValue.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockValue.cs
       - label: BlockValueV3.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/BlockValueV3.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockValueV3.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockValueV3.cs
       - label: BlockWorkstation.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/BlockWorkstation.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockWorkstation.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockWorkstation.cs
       - label: BlocksFromXml.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/BlocksFromXml.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlocksFromXml.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlocksFromXml.cs
       - label: MaterialBlock.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/MaterialBlock.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/MaterialBlock.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/MaterialBlock.cs
       - label: MultiBlockManager.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/MultiBlockManager.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/MultiBlockManager.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/MultiBlockManager.cs
       - label: TileEntityForge.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/TileEntityForge.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/TileEntityForge.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/TileEntityForge.cs
       - label: TileEntityWorkstation.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/TileEntityWorkstation.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/TileEntityWorkstation.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/TileEntityWorkstation.cs
       - label: WorkstationData.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Blocks/WorkstationData.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/WorkstationData.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/WorkstationData.cs
   - name: Crafintg
     files:
       - label: CraftCompleteData.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Crafting/CraftCompleteData.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/CraftCompleteData.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/CraftCompleteData.cs
       - label: CraftingData.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Crafting/CraftingData.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/CraftingData.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/CraftingData.cs
       - label: CraftingManager.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Crafting/CraftingManager.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/CraftingManager.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/CraftingManager.cs
+      - label: ItemActionEntryCraft.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/ItemActionEntryCraft.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/ItemActionEntryCraft.cs
       - label: ObjectiveCraft.cs
-        raw_branch: https://github.com/DaDiGui/Harmony/blob/main/Crafting/ObjectiveCraft.cs
+        raw_branch: https://github.com/DaDiGui/Harmony/blob/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/ObjectiveCraft.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/ObjectiveCraft.cs
