@@ -82,3 +82,42 @@ categories:
       - label: vp_SimpleInventory.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Inventory/vp_SimpleInventory.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Inventory/vp_SimpleInventory.cs
+
+  - name: Items
+    files:
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: ItemAction.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemAction.cs
+      - label: ItemActionData.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemActionData.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemActionData.cs
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
