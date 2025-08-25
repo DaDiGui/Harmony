@@ -94,30 +94,30 @@ categories:
       - label: ItemActionData.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemActionData.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemActionData.cs
-      - label: EntityItem.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
-      - label: EntityItem.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
-      - label: EntityItem.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
-      - label: EntityItem.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
-      - label: EntityItem.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
-      - label: EntityItem.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
-      - label: EntityItem.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
-      - label: EntityItem.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
-      - label: EntityItem.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
+      - label: ItemClass.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemClass.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemClass.cs
+      - label: ItemClassBlock.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemClassBlock.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemClassBlock.cs
+      - label: ItemClassesFromXml.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemClassesFromXml.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemClassesFromXml.cs
+      - label: ItemHasTags.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemHasTags.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemHasTags.cs
+      - label: ItemInventoryData.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemInventoryData.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemInventoryData.cs
+      - label: ItemStack.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemStack.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemStack.cs
+      - label: ItemValue.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemValue.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemValue.cs
+      - label: ItemWorldData.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemWorldData.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemWorldData.cs
+      - label: RecipeQueueItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/RecipeQueueItem.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/RecipeQueueItem.cs
