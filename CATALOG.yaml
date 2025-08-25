@@ -130,3 +130,15 @@ categories:
       - label: SystemArrays.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/Others/SystemArrays.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Others/SystemArrays.cs
+
+  - name: World
+    files:
+      - label: World.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/World/World.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/World/World.cs
+      - label: WorldBase.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/World/WorldBase.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/World/WorldBase.cs
+      - label: WorldStaticData.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/World/WorldStaticData.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/World/WorldStaticData.cs
