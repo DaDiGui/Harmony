@@ -1,29 +1,108 @@
-# Índice de referencias
+# Biblioteca de referencias (7 Days to Die · Harmony)
 
+## Tabla de contenido
+- [Blocks](#blocks)
+- [Crafting](#crafting)
+- [Entities](#entities)
+- [Inventory](#inventory)
+- [Items](#items)
+- [Others](#others)
+- [World](#world)
 - [XUi](#xui)
-- [Patches](#patches)
-- [Utils](#utils)
+
+---
+
+## Blocks
+- [Block.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/2bda5e326f237a5f4d4c1b6674d2e1639aeee257/Blocks/Block.cs)
+- [BlockForge.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/2bda5e326f237a5f4d4c1b6674d2e1639aeee257/Blocks/BlockForge.cs)
+- [BlockValue.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockValue.cs)
+- [BlockValueV3.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockValueV3.cs)
+- [BlockWorkstation.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlockWorkstation.cs)
+- [BlocksFromXml.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/BlocksFromXml.cs)
+- [MaterialBlock.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/MaterialBlock.cs)
+- [MultiBlockManager.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/MultiBlockManager.cs)
+- [TileEntityForge.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/TileEntityForge.cs)
+- [TileEntityWorkstation.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/TileEntityWorkstation.cs)
+- [WorkstationData.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Blocks/WorkstationData.cs)
+
+## Crafting
+- [CraftCompleteData.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/CraftCompleteData.cs)
+- [CraftingData.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/CraftingData.cs)
+- [CraftingManager.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/CraftingManager.cs)
+- [ItemActionEntryCraft.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/ItemActionEntryCraft.cs)
+- [ObjectiveCraft.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/319b313fb02bea43fdf912109bfddb6b7e3fd044/Crafting/ObjectiveCraft.cs)
+
+## Entities
+- [Entity.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Entities/Entity.cs)
+- [TileEntity.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Entities/TileEntity.cs)
+
+## Inventory
+- [Inventory.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/Inventory.cs)
+- [NetPackagePlayerInventory.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/NetPackagePlayerInventory.cs)
+- [NetPackagePlayerInventoryForAI.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/NetPackagePlayerInventoryForAI.cs)
+- [vp_Inventory.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/25dece536fee67af20b0206721e9d77c1bc31979/Inventory/vp_Inventory.cs)
+- [vp_PlayerInventory.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Inventory/vp_PlayerInventory.cs)
+- [vp_SimpleInventory.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Inventory/vp_SimpleInventory.cs)
+
+## Items
+- [EntityItem.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs)
+- [ItemAction.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemAction.cs)
+- [ItemActionData.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemActionData.cs)
+- [ItemClass.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemClass.cs)
+- [ItemClassBlock.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemClassBlock.cs)
+- [ItemClassesFromXml.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemClassesFromXml.cs)
+- [ItemHasTags.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemHasTags.cs)
+- [ItemInventoryData.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemInventoryData.cs)
+- [ItemStack.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemStack.cs)
+- [ItemValue.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemValue.cs)
+- [ItemWorldData.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemWorldData.cs)
+- [RecipeQueueItem.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/RecipeQueueItem.cs)
+
+## Others
+- [GameManager.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/Others/GameManager.cs)
+- [SystemArrays.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/Others/SystemArrays.cs)
+
+## World
+- [World.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/World/World.cs)
+- [WorldBase.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/World/WorldBase.cs)
+- [WorldStaticData.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/World/WorldStaticData.cs)
 
 ## XUi
-<details><summary>Ver archivos</summary>
-
-- `XUi/XUi.cs`  
-  [RAW (commit)](https://raw.githubusercontent.com/DaDiGui/Harmony/d4978da7504db0d2e98150af449e49b61204c945/XUi/XUi.cs) · [RAW (rama)](https://raw.githubusercontent.com/DaDiGui/Harmony/main/XUi/XUi.cs)
-
-</details>
-
-## Patches
-<details><summary>Ver archivos</summary>
-
-- `Patches/EjemploPatch.cs`  
-  [RAW (commit)](https://raw.githubusercontent.com/DaDiGui/Harmony/COMMIT_SHA/Patches/EjemploPatch.cs) · [RAW (rama)](https://raw.githubusercontent.com/DaDiGui/Harmony/main/Patches/EjemploPatch.cs)
-
-</details>
-
-## Utils
-<details><summary>Ver archivos</summary>
-
-- `Utils/Logger.cs`  
-  [RAW (commit)](https://raw.githubusercontent.com/DaDiGui/Harmony/COMMIT_SHA/Utils/Logger.cs) · [RAW (rama)](https://raw.githubusercontent.com/DaDiGui/Harmony/main/Utils/Logger.cs)
-
-</details>
+- [XUi.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUi.cs)
+- [XUiController.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiController.cs)
+- [XUiView.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiView.cs)
+- [XUiC_AssembleWindowGroup.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_AssembleWindowGroup.cs)
+- [XUiC_CraftingQueue.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_CraftingQueue.cs)
+- [XUiC_DataManagementBar.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_DataManagementBar.cs)
+- [XUiC_ItemActionEntry.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_ItemActionEntry.cs)
+- [XUiC_ItemActionList.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_ItemActionList.cs)
+- [XUiC_ItemInfoWindow.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_ItemInfoWindow.cs)
+- [XUiC_ItemStack.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_ItemStack.cs)
+- [XUiC_RecipeStack.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_RecipeStack.cs)
+- [XUiC_RequiredItemStack.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_RequiredItemStack.cs)
+- [XUiC_SlotPreview.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_SlotPreview.cs)
+- [XUiC_ToolTip.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_ToolTip.cs)
+- [XUiC_Toolbelt.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_Toolbelt.cs)
+- [XUiC_WorkstationFuelGrid.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_WorkstationFuelGrid.cs)
+- [XUiC_WorkstationGrid.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_WorkstationGrid.cs)
+- [XUiC_WorkstationInputGrid.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_WorkstationInputGrid.cs)
+- [XUiC_WorkstationMaterialInputGrid.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_WorkstationMaterialInputGrid.cs)
+- [XUiC_WorkstationMaterialInputWindow.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_WorkstationMaterialInputWindow.cs)
+- [XUiC_WorkstationOutputGrid.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_WorkstationOutputGrid.cs)
+- [XUiC_WorkstationOutputWindow.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_WorkstationOutputWindow.cs)
+- [XUiC_WorkstationToolGrid.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_WorkstationToolGrid.cs)
+- [XUiC_WorkstationWindowGroup.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiC/XUiC_WorkstationWindowGroup.cs)
+- [XUiM_ItemStack.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiM/XUiM_ItemStack.cs)
+- [XUiM_PlayerInventory.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiM/XUiM_PlayerInventory.cs)
+- [XUiM_Recipes.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiM/XUiM_Recipes.cs)
+- [XUiM_Workstation.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiM/XUiM_Workstation.cs)
+- [XUiV_Button.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Button.cs)
+- [XUiV_Grid.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Grid.cs)
+- [XUiV_Label.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Label.cs)
+- [XUiV_Panel.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Panel.cs)
+- [XUiV_Rect.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Rect.cs)
+- [XUiV_Sprite.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Sprite.cs)
+- [XUiV_Table.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Table.cs)
+- [XUiV_TextList.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_TextList.cs)
+- [XUiV_Texture.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Texture.cs)
+- [XUiV_Window.cs](https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Window.cs)
