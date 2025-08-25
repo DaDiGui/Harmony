@@ -121,3 +121,12 @@ categories:
       - label: RecipeQueueItem.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/RecipeQueueItem.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/RecipeQueueItem.cs
+
+  - name: Others
+    files:
+      - label: GameManager.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/Others/GameManager.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Others/GameManager.cs
+      - label: SystemArrays.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/Others/SystemArrays.cs
+        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Others/SystemArrays.cs
