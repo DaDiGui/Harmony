@@ -89,7 +89,7 @@ categories:
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/EntityItem.cs
       - label: ItemAction.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/EntityItem.cs
+        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemAction.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/Items/ItemAction.cs
       - label: ItemActionData.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/6c468efb98d17f1d9f93ed630b09aa2f54b3cb32/Items/ItemActionData.cs
@@ -235,9 +235,6 @@ categories:
       - label: XUiV_Grid.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Grid.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/XUi/XUiV/XUiV_Grid.cs
-      - label: XUiV_Button.cs
-        raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Button.cs
-        raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/XUi/XUiV/XUiV_Button.cs
       - label: XUiV_Label.cs
         raw_commit: https://raw.githubusercontent.com/DaDiGui/Harmony/858aaa02c02a33cf7f0d4b503056b0ff5745dbf7/XUi/XUiV/XUiV_Label.cs
         raw_branch: https://raw.githubusercontent.com/DaDiGui/Harmony/main/XUi/XUiV/XUiV_Label.cs
